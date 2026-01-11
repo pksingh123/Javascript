@@ -10,7 +10,7 @@
 ## Phases in Event Loop
 ## Event Loop concurrency management
 ## Memory Management - Garbage collection
-## what micro and macro task
+## what microtask queue and macrotask queue
 ## What is clustor
 ## How to handle multi thread in node js
 ## Intercepter, give me one use case and how it is different than Middleware.
@@ -41,4 +41,11 @@
 ## What is a memory leak and how can I prevent it?
 ## What are web workers?
 ## Which builder should I use to create an NPM package?
+
+# Coding
+
+## Flatten Array
+
+## Remove Duplicates
+## Check Palindrome
 
