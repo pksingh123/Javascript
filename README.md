@@ -1,11 +1,11 @@
-# Javascript (color:blue)
+# Javascript
 ## What is debounce and throttle in javascript?
 ## What is callback function in javascript with example?
 ## What is Promises in javascript?
 ## What is closure in javascript?
 ## What are promise types in javascript
 ## What shallow Copy and Deep Copy
-# Node JS (color:blue)
+# Node JS
 ## What is event loop
 ## Phases in Event Loop
 ## Event Loop concurrency management
